@@ -1,2 +1,2 @@
 # Items_Borrar
-El programa recibe como input el archivo excel en que se colocan los archivos de los items que se busca borrar, por default va dirigido hacia OneDrive Servicios Shasa, cambiar la dirección directo en el programa si lo desea. Se genera un reporte con los elementos eliminados en e escritorio del usuario.
+El programa recibe como input el archivo excel en que se colocan los archivos de los items que se busca borrar, por default va dirigido hacia OneDrive Servicios Shasa, cambiar la dirección directo en el programa si lo desea. Se genera un reporte con los elementos eliminados en el escritorio del usuario.

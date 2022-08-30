@@ -127,7 +127,6 @@ for j in range(len(ItemsDuda)):
                 item_cambio.append(sku)
 
             codigo_nuevo = pd.unique(codigo_nuevo)[0]
-            print(codigo_nuevo)
 
             sku_nuevo = sku.replace(codigo_color_imagen, codigo_nuevo)
             print(sku_nuevo)
